@@ -1,0 +1,13 @@
+git clone https://github.com/vatsamail/djangoproject.git
+cd djangoproject
+echo https://docs.djangoproject.com/en/2.0/intro/ >  README.md
+pip freeze > requirements.txt
+git add *
+git status
+git commit -m "Ready to learn django?"
+django-admin startproject mysite
+cd mysite
+python manage.py runserver
+
+
+doskey /HISTORY > history.txt
