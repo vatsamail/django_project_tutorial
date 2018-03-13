@@ -1,6 +1,6 @@
 # Django Learning
-## through a simple voting app
-### Credits:  [Django Project] (https://docs.djangoproject.com/en/2.0/intro)
+## Through a simple voting app
+### Credits:  [Django Project](https://docs.djangoproject.com/en/2.0/intro)
 
 
 Everybody should **play** with at least one Django project before they hop on to a new adventure in Django.
@@ -16,7 +16,7 @@ We will develop an *app* called **'polls'** under **'mysite'**
 The *tutorial* covers all the **7 chapters** and I have made sure to commit after every chapter.
 This will help anyone to start at any stage.
 
-Feel free to contact me - [Vatsa] (vatsamail@gmail.com)
+Feel free to contact me - [Vatsa](vatsamail@gmail.com)
 
 #### Some links to help you dig deep!
 - [How to Python?](https://www.python.org/downloads/)
