@@ -17,3 +17,9 @@ The *tutorial* covers all the **7 chapters** and I have made sure to commit afte
 This will help anyone to start at any stage.
 
 Feel free to contact me - [Vatsa] (vatsamail@gmail.com)
+
+#### Some links to help you dig deep!
+- [How to Python?] (https://www.python.org/downloads/)
+- [How to Git?] (https://help.github.com/)
+- [How to Django?] (https://www.djangoproject.com/)
+- [How to Virtualenv?] (https://virtualenv.pypa.io/en/stable/)
