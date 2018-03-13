@@ -13,10 +13,10 @@ I have developed this on Windows system but can be easily ported to Linux or Mac
 I encourage everybody to use **virtualenv**. My installed packages and the python version are mentioned in the folder.
 
 We will develop an *app* called **'polls'** under **'mysite'**
-The *tutorial* covers all the **7 chapters** and I have made sure to commit after every chapter.
+The *tutorial* covers all the **7 chapters** and a bonus chapter about *creating reusable apps* and I have made sure to commit after every chapter.
 This will help anyone to start at any stage.
 
-Feel free to contact me - [Vatsa](vatsamail@gmail.com)
+Feel free to contact me - [Vatsa](mailto:vatsamail@gmail.com)
 
 #### Some links to help you dig deep!
 - [How to Python?](https://www.python.org/downloads/)

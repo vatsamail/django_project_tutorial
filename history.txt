@@ -20,4 +20,11 @@ python manage.py runserver
 coverage run --source='.' manage.py test polls
 coverage report
 python -c "import django; print(django.__path__)"
+cd django-polls
+python setup.py sdist
+pip install --user django-polls/dist/django-polls-0.1.tar.gz
+pip unistall django-polls
+git add *
+git commit -m "After completing the entire tutorial - https://docs.djangoproject.com/en/2.0/intro/reusable-apps/"
+git push
 doskey /HISTORY > history.txt
