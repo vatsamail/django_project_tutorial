@@ -8,6 +8,16 @@ git commit -m "Ready to learn django?"
 django-admin startproject mysite
 cd mysite
 python manage.py runserver
-
-
+git status
+cd ../
+git commit -m "added some help in the file" README.md
+git push
+cd mysite
+python manage.py shell
+python manage.py test
+python manage.py test polls
+python manage.py runserver
+coverage run --source='.' manage.py test polls
+coverage report
+python -c "import django; print(django.__path__)"
 doskey /HISTORY > history.txt
