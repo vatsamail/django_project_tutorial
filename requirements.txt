@@ -125,7 +125,7 @@ pendulum==1.4.1
 pew==1.1.2
 pickleshare==0.7.4
 pif==0.8.2
-Pillow==5.0.0
+Pillow==6.2.0
 pipenv==9.0.3
 plotly==2.3.0
 pocketsphinx==0.1.3
