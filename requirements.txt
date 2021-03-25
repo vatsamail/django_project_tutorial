@@ -163,7 +163,7 @@ pytzdata==2018.3
 PyWavelets==0.5.2
 pywhatsapp==0.0.7
 pywinpty==0.5.1
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==17.0.0
 qtconsole==4.3.1
 regex==2018.2.3
