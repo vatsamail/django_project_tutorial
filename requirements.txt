@@ -4,7 +4,7 @@ algopy==0.5.7
 argcomplete==1.8.2
 argh==0.26.2
 attrs==17.4.0
-Babel==2.5.3
+Babel==2.9.1
 beautifulsoup4==4.5.3
 bleach==1.5.0
 boto3==1.6.1
