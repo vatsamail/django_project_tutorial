@@ -148,7 +148,7 @@ pygame==1.9.3
 Pygments==2.2.0
 pyocr==0.5
 pyparsing==2.2.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyreadline==2.1
 pytesseract==0.2.0
 python-axolotl==0.1.39
