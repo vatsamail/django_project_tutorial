@@ -67,7 +67,7 @@ googleapis-common-protos==1.5.3
 gql==0.1.0
 graphql-core==2.0
 graphviz==0.8.2
-html5lib==0.9999999
+html5lib==0.99999999
 httplib2==0.10.3
 hypothesis==3.45.0
 idna==2.6
